@@ -1,5 +1,5 @@
 # Hardware
-This repository contains all the schematic and PCB information for RoboOne and its charger, described in overview here.
+This repository contains all the schematic and PCB information for RoboOne and its charger, described in full here.
 
 http://www.meades.org/robots/robots.html
 
